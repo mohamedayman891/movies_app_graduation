@@ -1,5 +1,259 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d3df95a-d784-48e3-8af0-ad6f9f897de4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/EG@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/Forgot_password@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/LR@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/OnBoarding@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/available_now@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/avatar1@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/avatar@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/avtar2@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/avtar3@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/avtar4@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/avtar5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/avtar6@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/avtar7@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/avtar8@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/empty1@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/favorite@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/gamer1@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/gamer_green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/gamer_orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/gamer_red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/google@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/home_tab_bg@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/logo@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/onboarding_image_1@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/onboarding_image_2@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/onboarding_image_3@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/onboarding_image_4@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/play@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/save@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/search_dark@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/star@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/start_screen@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/time@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2.0x/watch_now@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/EG@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/Forgot_password@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/LR@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/OnBoarding@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/available_now@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/avatar1@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/avatar@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/avtar2@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/avtar3@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/avtar4@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/avtar5@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/avtar6@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/avtar7@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/avtar8@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/empty1@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/favorite@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/gamer1@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/gamer_green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/gamer_orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/gamer_red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/google@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/home_tab_bg@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/logo@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/onboarding_image_1@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/onboarding_image_2@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/onboarding_image_3@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/onboarding_image_4@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/play@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/save@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/search_dark@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/star@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/start_screen@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/time@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/3.0x/watch_now@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/EG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Email_icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Forgot_password.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/LR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/OnBoarding.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/available_now.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/avatar1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/avtar2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/avtar3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/avtar4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/avtar5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/avtar6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/avtar7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/avtar8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/empty1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/favorite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/gamer1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/home_tab_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/2.0x/Profile_logo@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/2.0x/explore_logo@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/2.0x/home_logo@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/2.0x/search_logo@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/3.0x/Profile_logo@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/3.0x/explore_logo@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/3.0x/home_logo@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/3.0x/search_logo@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/explore_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/home_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/profile_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/search_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/onboarding_image_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/onboarding_image_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/onboarding_image_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/onboarding_image_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/save.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/search_dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/splash_branding.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/splash_branding_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/splash_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/splash_screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/splash_screen_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/start_screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/watch_now.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/translations/ar.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/translations/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/api/api_constants.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/api/api_end_points.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/api/api_manager.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/auth/screens/language_toggle/language_toggle.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/auth/screens/language_toggle/language_view_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/auth/screens/login/login_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/auth/screens/login/login_view_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/auth/screens/register/register_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/auth/screens/register/register_view_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/auth/screens/reset_password/reset_password_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/colors/app_colors.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/helpers/cache_helper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/image/app_assets.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/network/connectivity_service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/observer/bloc_observer.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/responsive/responsive.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/responsive/size_config.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/routing/app_routes.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/text/app_text.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/theming/app_theme.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cubit/auth_cubit.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cubit/auth_states.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cubit/internet_cubit.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cubit/profile_cubit.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cubit/profile_states.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cubit/update_profile_cubit.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cubit/update_profile_states.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cubit/wishlist_cubit.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cubit/wishlist_state.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/data/local/hive/movie_hive_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/data/local/hive/movie_hive_model.g.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/data/local/hive/movies_cache_entry_hive_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/data/local/hive/movies_cache_entry_hive_model.g.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/data/local/movies_hive_local_data_source_impl.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/data/local/movies_local_data_source.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/di/firebase_module.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/di/injection.config.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/di/injection.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/di/third_party_module.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/datasource/auth_remote_data_source.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/datasource/auth_remote_source_data_impl.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/entities/user_entity.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/repositories/auth_repository.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/repositories/auth_repository_impl.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/repositories/movies_repository.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/repositories/movies_repository_impl.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/use_cases/delete_account_use_case.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/use_cases/get_user_profile_use_case.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/use_cases/google_sign_in_use_case.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/use_cases/login_use_case.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/use_cases/register_use_case.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/use_cases/reset_password_use_case.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/use_cases/update_profile_use_case.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/firebase_options.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/cubit/home_layout_cubit.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/cubit/home_layout_states.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/home_layout.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/explore_tab/appbar/appbar_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/explore_tab/appbar/tab_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/explore_tab/content/content_explore_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/explore_tab/explore_tab.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/home_tab/cubit/home_tab_cubit.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/home_tab/cubit/home_tab_states.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/home_tab/home_tab.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/home_tab/widget/movie_card.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/home_tab/widget/movie_cover.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/movie_details/cubit/movie_details_cubit.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/movie_details/cubit/movie_details_states.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/movie_details/movie_details_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/movie_details/widgets/cast_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/movie_details/widgets/download_section.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/movie_details/widgets/genres_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/movie_details/widgets/icon_text_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/movie_details/widgets/screen_shots_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/movie_details/widgets/similer_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/movie_details/widgets/video_play_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/profile_tab/history/history_grid.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/profile_tab/history/history_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/profile_tab/profile/profile_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/profile_tab/profile/widgets/profile_header.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/profile_tab/update_profile_screen/avatar_bottom_sheet.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/profile_tab/update_profile_screen/update_profile_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/search_tab/appbar/appbar_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/search_tab/content/content_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/search_tab/cubit/search_tab_cubit.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/search_tab/cubit/search_tab_states.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/tabs/search_tab/search_tab.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home_layout/watch_movie_screen/watch_movie_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/model/movie_details_response/movie_details_response.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/model/movie_response/movie_response.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/model/my_user.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/model/register_model/user_data_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/onBoarding/screens/on_boarding_screens/create_watchlists.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/onBoarding/screens/on_boarding_screens/discover_movies_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/onBoarding/screens/on_boarding_screens/explore_all_genres.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/onBoarding/screens/on_boarding_screens/rate_review_and_learn.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/onBoarding/screens/on_boarding_screens/start_watching_now.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/onBoarding/screens/start_screen/find_your_next_movie.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/onBoarding/widget/onboarding_widget_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/App_Shimmer/app_shimmer.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/App_Shimmer/movie_card_shimmer.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/app_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/app_dialog_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/build_inputs.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/custom_text_form_field.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/global_error_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/main_loading_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/no_internet_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis_options.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/analysis_options.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/android/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies_app_graduation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/movies_app_graduation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="main.dart" pinned="false" current-in-tab="true">
@@ -13,24 +267,82 @@
       </file>
     </leaf>
   </component>
-  <component name="ToolWindowManager">
-    <editor active="true" />
-    <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-    </layout>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nabelelsheiry&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mohamedayman891/movies_app_graduation.git&quot;,
+    &quot;accountId&quot;: &quot;1c2e8e71-9f0c-46bd-b688-4d9ad69b4b38&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3KhQBiVE3IRJqsztqlq4b6qnEPP" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-    </navigator>
+    <navigator currentView="ProjectPane" proportions="" version="1" />
     <panes>
       <pane id="ProjectPane">
         <option name="show-excluded-files" value="false" />
       </pane>
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="dart.analysis.tool.window.force.activate" value="true" />
-    <property name="show.migrate.to.gradle.popup" value="false" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;CidrDebugProfileConversion&quot;: &quot;true&quot;,
+    &quot;Flutter.main.dart.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;nabil-elshiery&quot;,
+    &quot;io.flutter.project.isFirstOpen&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/elbono/StudioProjects/movies_app_graduation&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/lib/auth" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d3df95a-d784-48e3-8af0-ad6f9f897de4" name="Changes" comment="" />
+      <created>1792007187798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792007187798</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+    </layout>
   </component>
 </project>
