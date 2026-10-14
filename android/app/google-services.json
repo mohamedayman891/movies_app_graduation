@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "31741945228",
+    "project_id": "movie-app-grad-proj",
+    "storage_bucket": "movie-app-grad-proj.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31741945228:android:565c44c4a3972a1c9022a9",
+        "android_client_info": {
+          "package_name": "com.example.movies_app_grad_project_route"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31741945228-52bkpbkckvkhdbmtd7nvuot96h7ebkue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.movies_app_grad_project_route",
+            "certificate_hash": "2438fee1591a6c9f9fdbc97150226906f7d762be"
+          }
+        },
+        {
+          "client_id": "31741945228-pbl1nm96ajnd9qdlago5cfp3rgdg3isi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIWtyuDLVXb9zvyU14vNAfs1hRIz2zzqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31741945228-pbl1nm96ajnd9qdlago5cfp3rgdg3isi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "31741945228-elbglbf0fnmidrq39scqiir11pj73ucr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.moviesAppGradProjectRoute"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31741945228:android:d892dc1d08c7ecee9022a9",
+        "android_client_info": {
+          "package_name": "com.example.movies_app_graduation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31741945228-pbl1nm96ajnd9qdlago5cfp3rgdg3isi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIWtyuDLVXb9zvyU14vNAfs1hRIz2zzqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31741945228-pbl1nm96ajnd9qdlago5cfp3rgdg3isi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "31741945228-elbglbf0fnmidrq39scqiir11pj73ucr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.moviesAppGradProjectRoute"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
